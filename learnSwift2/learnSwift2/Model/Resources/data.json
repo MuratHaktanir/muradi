@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "lessonname": "Türkçe",
+    "school": "Lise",
+    "grade": "9. Sınıf",
+    "subject": "Hikâye",
+    "description": "Hayat yaşamak için çok güzel.",
+    "imageName": "edebiyat"
+  },
+  {
+    "id": 1,
+    "lessonname": "Matematik",
+    "school": "Lise",
+    "grade": "9. Sınıf",
+    "subject": "Mantık",
+    "description": "Matematik için mantık çok önemlidir.",
+    "imageName": "matematik"
+  },
+  {
+    "id": 2,
+    "lessonname": "İngilizce",
+    "school": "Lise",
+    "grade": "9. Sınıf",
+    "subject": "Short Stories",
+    "description": "Life is good.",
+    "imageName": "ingilizce"
+  },
+  {
+    "id": 3,
+    "lessonname": "Biyoloji",
+    "school": "Lise",
+    "grade": "9. Sınıf",
+    "subject": "Evrim",
+    "description": "O baby baby it's a wild world.",
+    "imageName": "biyoloji"
+  }
+]
